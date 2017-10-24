@@ -1,0 +1,47 @@
+[
+    {
+      "MST": "999",
+      "address": "Vinh- Nghe An",
+      "birthday": "18-11-1994",
+      "details": "khong",
+      "email": "anh@gmail.com",
+      "level": "2",
+      "name": "Le Viet Hoang Anh",
+      "phone": "016320055333",
+      "pwd": "123",
+      "regday": "17-10-2017",
+      "total": "1000",
+      "type": "admin",
+      "uname": "hoanganh"
+    },
+    {
+      "MST": "999",
+      "address": "Vinh- Nghe An",
+      "birthday": "18-11-1997",
+      "details": "khong",
+      "email": "lan@gmail.com",
+      "level": "2",
+      "name": "Phan Thi Mai Lan",
+      "phone": "016320055333",
+      "pwd": "123",
+      "regday": "17-10-2017",
+      "total": "1000",
+      "type": "custumer",
+      "uname": "mailan"
+    },
+    {
+      "MST": "999",
+      "address": "Binh Giang- Hai Duong",
+      "birthday": "18-11-1994",
+      "details": "khong",
+      "email": "long@gmail.com",
+      "level": "2",
+      "name": "Doan Quang Long",
+      "phone": "016320055333",
+      "pwd": "123",
+      "regday": "17-10-2017",
+      "total": "1000",
+      "type": "custumer",
+      "uname": "long"
+    }
+  ]

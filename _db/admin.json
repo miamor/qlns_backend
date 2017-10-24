@@ -1,0 +1,29 @@
+{
+  "result": [
+    {
+      "name": "hoanganh",
+      "pwd": "123",
+      "type": "admin"
+    },
+    {
+      "name": "hoanganh3",
+      "pwd": "123",
+      "type": "admin"
+    },
+    {
+      "name": "Le Viet Hoang Anh",
+      "pwd": "123",
+      "type": "guess"
+    },
+    {
+      "name": "luong",
+      "pwd": "123",
+      "type": "admin"
+    },
+    {
+      "name": "hoanganh",
+      "pwd": "123",
+      "type": "admin"
+    }
+  ]
+}

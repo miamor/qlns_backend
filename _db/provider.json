@@ -1,0 +1,40 @@
+{
+  "result": [
+    {
+      "address": "Cau Giay-Ha Noi",
+      "details": "gan",
+      "name": "samsung",
+      "phone": "0988888888"
+    },
+    {
+      "address": "Tp Vinh-Nghe An",
+      "details": "xa",
+      "name": "samsung nghe an",
+      "phone": "0988888333"
+    },
+    {
+      "address": "Ba Dinh-Ha Noi",
+      "details": "gan",
+      "name": "Dien may xanh",
+      "phone": "0988888888"
+    },
+    {
+      "address": "12 Giai Phong-Ha Noi",
+      "details": "Gan ben xe nuoc ngam",
+      "name": "apple ha noi",
+      "phone": "0988888333"
+    },
+    {
+      "address": "312 Nguyen Van Cu-Vinh -Nghe An",
+      "details": "tru so o thanh pho vinh",
+      "name": "apple nghe an",
+      "phone": "098777999"
+    },
+    {
+      "address": "Q3-tphcm",
+      "details": "tru so lon thu 2",
+      "name": "apple tphcm",
+      "phone": "098777990"
+    }
+  ]
+}

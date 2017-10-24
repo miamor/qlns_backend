@@ -1,0 +1,7 @@
+{"_id":{"$oid":"59ef02800810aa25fdbb8b90"},"username":"admin","first_name":"Admin","last_name":"Thee","email":"comesug@leced.org","address":null,"zipcode":null,"city":null,"avatar":"https://robohash.org/20d4467a68b71c332ed729fdce9580ff.png","birthday":null,"type":"admin"}
+{"_id":{"$oid":"59ef02800810aa25fdbb8b91"},"username":"miamor","first_name":"Miamor","last_name":"W","email":"comesug@leced.org","address":null,"zipcode":null,"city":null,"avatar":"https://robohash.org/20d4467a68b71c332ed729fdce9580ff.png","birthday":null,"type":"member"}
+{"_id":{"$oid":"59ef02800810aa25fdbb8b92"},"username":"tutu","first_name":"Tu","last_name":"Nguyen","email":"comesug@leced.org","address":null,"zipcode":null,"city":null,"avatar":"https://robohash.org/20d4467a68b71c332ed729fdce9580ff.png","birthday":null,"type":"mod"}
+{"_id":{"$oid":"59ef2450972ba231f86a3a07"},"first_name":"Test","last_name":"tete","email":"tett@email.com","birthday":"2017-10-20T17:00:00.000Z","type":"member"}
+{"_id":{"$oid":"59ef28d8b7929d480104a5b8"},"first_name":"wed","last_name":"wed","email":"miamorwest@yahoo.com","birthday":"2017-10-03T17:00:00.000Z","type":"mod","address":"sq","zipcode":"as","city":"as"}
+{"_id":{"$oid":"59ef29d4095ac348822bf939"},"first_name":"aa","last_name":"bb","email":"ab@email.com","birthday":"2017-10-05T17:00:00.000Z","type":"member"}
+{"_id":{"$oid":"59ef2a9a11b08548fafa039a"},"first_name":"cc","last_name":"dd","email":"cd@email.com","type":"mod"}
